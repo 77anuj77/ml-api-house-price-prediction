@@ -1,4 +1,4 @@
-# House Price Prediction - FAML Assignment 9
+# House Price Prediction (FastAPI)
 
 End-to-end house price prediction system using machine learning, with a FastAPI backend and Streamlit frontend.
 
@@ -71,11 +71,11 @@ Opens a web UI to input house details and get predicted prices.
 
 ## Screenshots
 
-### API Response
+### Streamlit UI
 
 ![API Response](objects/Screenshot%202026-07-04%20at%2011.01.57%E2%80%AFAM.png)
 
-### Streamlit UI
+### Project Structure
 
 ![Streamlit UI](objects/Screenshot%202026-07-04%20at%2011.06.30%E2%80%AFAM.png)
 
